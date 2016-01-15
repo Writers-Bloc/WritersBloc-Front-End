@@ -1,0 +1,21 @@
+#head {
+  background: url(http://tapinfluence.s3.amazonaws.com/uploads/2013/04/typing_on_keyboard_300dpi.jpg) 50% 0 fixed;
+  /*height: auto;  */
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  padding: 100px 0;
+  margin-top: 0;
+  background-size:cover;
+}
+.navbar {
+  margin-bottom: 0;
+}
+.jumbotron {
+  background: rgba(255, 255, 255, 0.5);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#about {
+  margin-top: 20px;
+}

@@ -17,10 +17,10 @@
 #profile-pic{
   width: 250px;
   height: 250px;
-  border-radius: 130px;
+  /*border-radius: 130px;*/
   /*-webkit-border-radius: 100px;*/
   /*-moz-border-radius: 100px;*/
-  background: url(https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogdailyherald.com%2Fwp-content%2Fuploads%2F2014%2F10%2Fwallpaper-for-facebook-profile-photo.jpg&f=1) no-repeat;
+  /*background: url(https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogdailyherald.com%2Fwp-content%2Fuploads%2F2014%2F10%2Fwallpaper-for-facebook-profile-photo.jpg&f=1) no-repeat;*/
   background-position:center;
   background-size: 200%;
 }
